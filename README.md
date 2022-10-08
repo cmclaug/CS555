@@ -1,1 +1,1 @@
-[![<GITHUB_USERNAME>](https://circleci.com/gh/<GITHUB_USERNAME>/<REPO_NAME>.svg?style=svg)](https://app.circleci.com/pipelines/github/<GITHUB_USERNAME>/<REPO_NAME>?branch=main&filter=all)
+[![cmclaug](https://circleci.com/gh/cmclaug/SSW567-2.svg?style=svg)](https://app.circleci.com/pipelines/github/cmclaug/SSW567-2?branch=main&filter=all)
